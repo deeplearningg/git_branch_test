@@ -1,1 +1,1 @@
-# It's Friday!
+# It's Wednesday!
