@@ -9,5 +9,6 @@ int main() {
   std::cout << hotfix << std::endl;
   std::cout << master << std::endl;
   std::cout << "wet shoes" << std::endl;
+  std::cout << "it rains cats and dogs" << std::endl;
   return 0;
 }
