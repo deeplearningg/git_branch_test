@@ -8,5 +8,6 @@ int main() {
   std::cout << debug << std::endl;
   std::cout << hotfix << std::endl;
   std::cout << master << std::endl;
+  std::cout << "wet shoes" << std::endl;
   return 0;
 }
