@@ -9,10 +9,14 @@ int main() {
   std::cout << hotfix << std::endl;
   std::cout << master << std::endl;
   std::cout << "wet shoes" << std::endl;
+<<<<<<< HEAD
   std::cout << "it rains cats and dogs" << std::endl;
   std::cout << "this is in experiement" << std::endl;
   std::cout << "this is in testing" << std::endl;
   std::cout << "this is in master" << std::endl;
 
+=======
+  std::cout << "this is in experiement" << std::endl;
+>>>>>>> experiement
   return 0;
 }
