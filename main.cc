@@ -12,6 +12,7 @@ int main() {
   std::cout << "it rains cats and dogs" << std::endl;
   std::cout << "this is in experiement" << std::endl;
   std::cout << "this is in testing" << std::endl;
+  std::cout << "this is in master" << std::endl;
 
   return 0;
 }
